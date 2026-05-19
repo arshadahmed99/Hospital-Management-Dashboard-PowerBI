@@ -71,7 +71,7 @@ Tracks treatment revenue, costs, and profit/loss by facility and specialisation.
 
 A dedicated operational view for bed managers. Shows total vs in-use ICU beds, available vs occupied ward beds, nurse-to-patient ratios, and medical supply levels — all by facility.
 
-![Bed Management](assets/Bed Management.png)
+![Bed Management](assets/Bed_Management.png)
 
 **Key metrics visible:**
 - ICU beds by facility: Dhaka South (20 total / 15 in use) · Port City (18/15) · Nagar (15/11) · Peoples Care (12/14) · City Center (10/12)
